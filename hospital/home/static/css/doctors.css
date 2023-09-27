@@ -1,0 +1,14 @@
+@media (min-width:34em) {
+    .card-deck > .card
+    {
+        width: 29%;
+        flex-wrap: wrap;
+        flex: initial; 
+    }
+}
+h5{
+    color: red;
+}
+.card-title{
+    color: rebeccapurple;
+}
